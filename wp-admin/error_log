@@ -1,0 +1,209 @@
+[07-Feb-2017 12:27:36 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:36 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:36 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:36 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:36 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[07-Feb-2017 12:27:37 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:37 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:37 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:37 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:37 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[07-Feb-2017 12:27:38 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:38 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:38 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:38 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:38 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[07-Feb-2017 12:27:39 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:39 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:39 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:39 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[07-Feb-2017 12:27:39 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:39 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:39 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:39 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:39 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[07-Feb-2017 12:27:40 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:40 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:40 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:40 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[07-Feb-2017 12:27:40 America/Chicago] PHP Warning:  PHP Startup: mailparse: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:40 America/Chicago] PHP Warning:  PHP Startup: uploadprogress: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:40 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:40 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20151012
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[07-Feb-2017 12:27:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so' - /opt/php70/lib/php/extensions/no-debug-non-zts-20151012/oauth.so: undefined symbol: zend_sort in Unknown on line 0
+[07-Feb-2017 18:27:41 UTC] wizard_viewed
+[07-Feb-2017 18:27:57 UTC] wizard_started
+[07-Feb-2017 18:30:03 UTC] wizard_step_completed
+[07-Feb-2017 18:30:05 UTC] wizard_step_viewed
+[07-Feb-2017 18:30:10 UTC] wizard_step_completed
+[07-Feb-2017 18:30:10 UTC] wizard_step_viewed
+[07-Feb-2017 18:31:24 UTC] wizard_step_completed
+[07-Feb-2017 18:31:25 UTC] wizard_step_viewed
+[07-Feb-2017 18:31:28 UTC] wizard_step_completed
+[07-Feb-2017 18:31:28 UTC] wizard_step_viewed
+[07-Feb-2017 18:31:28 UTC] contact_page_built
+[07-Feb-2017 18:31:40 UTC] wizard_step_skipped
+[07-Feb-2017 18:37:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:22:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:23:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:24:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:26:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:30:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:31:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:35:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:38:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:40:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:49:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:53:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 18:56:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 19:02:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 19:23:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 20:25:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 20:25:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 20:33:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 20:35:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 20:45:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 20:49:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 20:50:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 20:50:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 20:50:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 20:59:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 20:59:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 21:00:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 21:00:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 22:32:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 22:35:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[08-Feb-2017 22:40:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[09-Feb-2017 22:59:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:13:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:13:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:13:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:17:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:17:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:19:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:19:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:37:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:37:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:37:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:37:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:37:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[28-Feb-2017 23:37:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[12-Mar-2017 04:04:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[12-Mar-2017 04:04:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 177
+[12-Mar-2017 04:05:57 UTC] wizard_hidden
+[15-Mar-2017 19:46:51 UTC] mojo_plugin_deactivated
+[22-Mar-2017 04:18:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/lib/helper-functions.php on line 35

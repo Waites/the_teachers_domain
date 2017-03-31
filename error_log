@@ -1,0 +1,25 @@
+1486491903: /home1/safyyrep/public_html/c/theteachersdomain/ssv3_payload_extractor-pHpu2H6osX.php startup
+[16-Mar-2017 02:25:17 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'ed_enqueue_scripts_styles' not found or invalid function name in /home1/safyyrep/public_html/c/theteachersdomain/wp-includes/class-wp-hook.php on line 298
+[17-Mar-2017 22:05:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis() in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/functions.php:6
+Stack trace:
+#0 /home1/safyyrep/public_html/c/theteachersdomain/wp-settings.php(423): include()
+#1 /home1/safyyrep/public_html/c/theteachersdomain/wp-config.php(89): require_once('/home1/safyyrep...')
+#2 /home1/safyyrep/public_html/c/theteachersdomain/wp-load.php(37): require_once('/home1/safyyrep...')
+#3 /home1/safyyrep/public_html/c/theteachersdomain/wp-blog-header.php(13): require_once('/home1/safyyrep...')
+#4 /home1/safyyrep/public_html/c/theteachersdomain/index.php(17): require('/home1/safyyrep...')
+#5 {main}
+  thrown in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/functions.php on line 6
+[17-Mar-2017 23:08:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/functions.php on line 36
+[18-Mar-2017 21:28:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/functions.php on line 21
+[18-Mar-2017 22:44:43 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/lib/helper-functions.php on line 7
+[18-Mar-2017 22:45:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/lib/helper-functions.php on line 17
+[21-Mar-2017 23:29:28 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'ed_sidebar' not found or invalid function name in /home1/safyyrep/public_html/c/theteachersdomain/wp-includes/class-wp-hook.php on line 298
+[21-Mar-2017 23:35:08 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH), expecting ',' or ';' in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/lib/sidebar.php on line 10
+[22-Mar-2017 00:01:19 UTC] PHP Catchable fatal error:  Object of class WP_Term could not be converted to string in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/lib/sidebar.php on line 13
+[22-Mar-2017 00:27:47 UTC] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/lib/sidebar.php on line 13
+[22-Mar-2017 03:39:23 UTC] PHP Parse error:  syntax error, unexpected '    ' (T_STRING) in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/lib/helper-functions.php on line 36
+[22-Mar-2017 03:40:03 UTC] PHP Parse error:  syntax error, unexpected '$separator         ' (T_VARIABLE) in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/lib/helper-functions.php on line 35
+[22-Mar-2017 03:40:22 UTC] PHP Parse error:  syntax error, unexpected '$separator         ' (T_VARIABLE) in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/lib/helper-functions.php on line 35
+[22-Mar-2017 04:21:21 UTC] PHP Parse error:  syntax error, unexpected 'add_action' (T_STRING) in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/functions.php on line 17
+[24-Mar-2017 05:20:34 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/lib/sidebar.php on line 12
+[24-Mar-2017 05:21:59 UTC] PHP Parse error:  syntax error, unexpected ':' in /home1/safyyrep/public_html/c/theteachersdomain/wp-content/themes/educator/lib/sidebar.php on line 12
